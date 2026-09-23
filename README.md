@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E3A8A,70:6D28D9,100:0D1117&height=180&section=header&text=NIHAR%20MANDAL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,22:1E3A8A,55:6D28D9,80:9D174D,100:0D1117&height=180&section=header&text=NIHAR%20MANDAL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <sub>BTech AI/ML Student &nbsp;•&nbsp; AI Developer &nbsp;•&nbsp; Python Developer</sub>
 
@@ -14,19 +14,19 @@
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-1F2937?style=for-the-badge&labelColor=1E3A8A&color=1F2937"/>
 <img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-1F2937?style=for-the-badge&labelColor=6D28D9&color=1F2937"/>
-<img src="https://img.shields.io/badge/PRIMARY-PYTHON-1F2937?style=for-the-badge&labelColor=0E7490&color=1F2937"/>
+<img src="https://img.shields.io/badge/PRIMARY-PYTHON-1F2937?style=for-the-badge&labelColor=9D174D&color=1F2937"/>
 
 <br/><br/>
 
-<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/></a>
+<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -44,7 +44,7 @@ Status    Learning / Building
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -54,39 +54,30 @@ Status    Learning / Building
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/C%2B%2B-1F2937?style=for-the-badge&logo=cplusplus&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=3B82F6"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql&theme=dark" height="50"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=22D3EE"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Supabase-1F2937?style=for-the-badge&logo=supabase&logoColor=A78BFA"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase&theme=dark" height="50"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-1F2937?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/LLMs-1F2937?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/APIs-1F2937?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Automation-1F2937?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Intelligent%20Systems-1F2937?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-1F2937?style=for-the-badge&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/LLMs-1F2937?style=for-the-badge&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/APIs-1F2937?style=for-the-badge&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Automation-1F2937?style=for-the-badge&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Intelligent%20Systems-1F2937?style=for-the-badge&logoColor=EC4899"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -106,7 +97,7 @@ Large Language Models
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -126,7 +117,7 @@ Large Language Models
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -142,7 +133,7 @@ Large Language Models
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -161,7 +152,7 @@ Large Language Models
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3" width="100%" height="3"/>
 
 <br/>
 
@@ -169,9 +160,9 @@ Large Language Models
 
 <div align="center">
 
-<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-Niharm31-1F2937?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-Niharm31-1F2937?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/></a>
+<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
 
 <br/><br/>
 
@@ -181,4 +172,4 @@ Large Language Models
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:6D28D9,70:1E3A8A,100:0D1117&height=110&section=footer&text=LEARN%20-%20BUILD%20-%20EVOLVE&fontSize=18&fontColor=FFFFFF&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:9D174D,55:6D28D9,78:1E3A8A,100:0D1117&height=110&section=footer&text=LEARN%20-%20BUILD%20-%20EVOLVE&fontSize=18&fontColor=FFFFFF&fontAlignY=70&animation=fadeIn" width="100%"/>
