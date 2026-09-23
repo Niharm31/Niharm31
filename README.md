@@ -1,69 +1,33 @@
-# Hi, I'm Nihar Mandal 👋
+<div align="center">
 
-### BTech AI/ML Student · AI Developer · Python Developer
+# Nihar Mandal
 
-> Exploring Artificial Intelligence, software engineering, and intelligent systems.
+### `AI/ML Student` · `AI Developer` · `Python Developer`
 
-I'm a **BTech student specializing in Artificial Intelligence & Machine Learning**, passionate about technology, programming, and continuously expanding my technical skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Building+with+Python;Learning+Machine+Learning;Turning+ideas+into+software" />
 
----
+<br>
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mandalnihar11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🎓 BTech — Artificial Intelligence & Machine Learning
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🐍 Focused on Python development
-- 💻 Working with C, C++, Java, and SQL
-- 🌐 Interested in Web Development & Backend Systems
-- ⚙️ Exploring APIs, Automation, and AI Technologies
-- 📚 Always learning and improving
-
----
-
-## 🛠️ Technical Skills
-
-### Programming
-`Python` `C` `C++` `Java` `SQL`
-
-### Web Development
-`HTML` `CSS` `JavaScript`
-
-### AI & Technology
-`Artificial Intelligence` `Machine Learning` `LLMs` `APIs` `Automation`
-
-### Tools & Platforms
-`Git` `GitHub` `VS Code` `Supabase`
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 👋 About Me
 
-- Artificial Intelligence & Machine Learning
-- Large Language Models
-- Software Engineering
-- Backend Development
-- APIs & Automation
-- Modern Development Tools
+I'm **Nihar Mandal**, a BTech student specializing in **Artificial Intelligence & Machine Learning**.
 
----
+I'm interested in understanding how intelligent systems work and building practical software around them.
 
-## 💡 Interests
-
-`AI/ML` · `Software Development` · `Automation` · `Web Technologies` · `Open Source`
-
----
-
-## 📊 GitHub
-
-I use GitHub to learn, experiment, collaborate, and improve my development skills.
-
----
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nihar-mandal-b512b5288)
-- 📧 [Email](mailto:mandalnihar11@gmail.com)
-
----
-
-> **Learn. Build. Improve. Repeat.**
+```text
+AI / ML          ███████████████░░░░░
+Python           ████████████████░░░░
+Programming      ███████████████░░░░░
+Web Development  ████████████░░░░░░░░
+Automation       ████████████░░░░░░░░
