@@ -141,8 +141,7 @@ Large Language Models
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=3B82F6&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&cache_seconds=86400" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharm31&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F2937&hide_border=false&cache_seconds=86400" width="40%"/>
+
 
 <br/>
 
