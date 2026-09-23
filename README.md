@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-0D1117?style=flat-square&labelColor=05080D&color=111827"/>
-<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-0D1117?style=flat-square&labelColor=05080D&color=111827"/>
-<img src="https://img.shields.io/badge/PRIMARY-PYTHON-0D1117?style=flat-square&labelColor=05080D&color=111827"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-0D1117?style=for-the-badge&labelColor=05080D&color=0D1117&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-0D1117?style=for-the-badge&labelColor=05080D&color=0D1117"/>
+<img src="https://img.shields.io/badge/PRIMARY-PYTHON-0D1117?style=for-the-badge&labelColor=05080D&color=0D1117"/>
 
 <br/><br/>
 
@@ -52,32 +52,35 @@ Status    Learning / Building
 
 <div align="center">
 
-**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" height="36"/>
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF"/>
 
 <br/><br/>
 
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" height="36"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF"/>
 
 <br/><br/>
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase" height="36"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=58A6FF"/>
 
 <br/><br/>
 
-**AI / Technology**
-<br/>
-<img src="https://img.shields.io/badge/-Artificial%20Intelligence-0D1117?style=flat-square&color=111827"/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-0D1117?style=flat-square&color=111827"/>
-<img src="https://img.shields.io/badge/-LLMs-0D1117?style=flat-square&color=111827"/>
-<img src="https://img.shields.io/badge/-APIs-0D1117?style=flat-square&color=111827"/>
-<img src="https://img.shields.io/badge/-Automation-0D1117?style=flat-square&color=111827"/>
-<img src="https://img.shields.io/badge/-Intelligent%20Systems-0D1117?style=flat-square&color=111827"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Intelligent%20Systems-0D1117?style=for-the-badge&logoColor=58A6FF"/>
 
 </div>
 
