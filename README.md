@@ -178,16 +178,12 @@ I care about understanding technology at a deep level — not just using tools, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=3B82F6&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharm31&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F2937&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=3B82F6&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharm31&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F2937&hide_border=false&cache_seconds=86400" width="48%"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niharm31&theme=dark&background=0D1117&ring=58A6FF&fire=3B82F6&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=1F2937" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharm31&theme=react-dark&bg_color=0D1117&color=58A6FF&line=3B82F6&point=C9D1D9&hide_border=true" width="97%"/>
 
 </div>
 
