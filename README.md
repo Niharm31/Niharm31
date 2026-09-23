@@ -7,20 +7,20 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=90%25&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Exploring+Large+Language+Models;APIs+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Exploring+Large+Language+Models;APIs+%26+Automation" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-0D1117?style=for-the-badge&labelColor=1E3A8A&color=0D1117"/>
-<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-0D1117?style=for-the-badge&labelColor=6D28D9&color=0D1117"/>
-<img src="https://img.shields.io/badge/PRIMARY-PYTHON-0D1117?style=for-the-badge&labelColor=0E7490&color=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-1F2937?style=for-the-badge&labelColor=1E3A8A&color=1F2937"/>
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-1F2937?style=for-the-badge&labelColor=6D28D9&color=1F2937"/>
+<img src="https://img.shields.io/badge/PRIMARY-PYTHON-1F2937?style=for-the-badge&labelColor=0E7490&color=1F2937"/>
 
 <br/><br/>
 
-<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-05080D?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-05080D?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-05080D?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
 
 </div>
 
@@ -58,33 +58,33 @@ Status    Learning / Building
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1F2937?style=for-the-badge&logo=cplusplus&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=3B82F6"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=22D3EE"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Supabase-1F2937?style=for-the-badge&logo=supabase&logoColor=A78BFA"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Intelligent%20Systems-0D1117?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-1F2937?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/LLMs-1F2937?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/APIs-1F2937?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Automation-1F2937?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Intelligent%20Systems-1F2937?style=for-the-badge&logoColor=F472B6"/>
 
 </div>
 
@@ -177,9 +177,9 @@ Large Language Models
 
 <div align="center">
 
-<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-Niharm31-05080D?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-Connect-05080D?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-05080D?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://github.com/Niharm31"><img src="https://img.shields.io/badge/GitHub-Niharm31-1F2937?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+<a href="https://www.linkedin.com/in/nihar-mandal-b512b5288"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+<a href="mailto:mandalnihar11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
 
 <br/><br/>
 
