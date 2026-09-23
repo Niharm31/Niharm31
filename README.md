@@ -32,13 +32,15 @@ I'm a BTech student specializing in **Artificial Intelligence & Machine Learning
 
 I care about understanding technology at a deep level — not just using tools, but knowing how they work underneath. Currently strengthening my foundations in Python, AI/ML, and backend systems while continuously building and learning.
 
+<div align="center">
+
 ```
-Role       BTech AI/ML Student
-Primary    Python
-Focus      AI · ML · LLMs
-Systems    APIs · Automation
-Status     Learning / Building
+Role      BTech AI/ML Student
+Primary   Python
+Status    Learning / Building
 ```
+
+</div>
 
 <br/>
 
@@ -48,17 +50,25 @@ Status     Learning / Building
 
 ### `//` TECH STACK
 
+<div align="center">
+
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" height="36"/>
+
+<br/><br/>
 
 **Web**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" height="36"/>
 
+<br/><br/>
+
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase" height="36"/>
+
+<br/><br/>
 
 **AI / Technology**
 <br/>
@@ -69,6 +79,8 @@ Status     Learning / Building
 <img src="https://img.shields.io/badge/-Automation-0D1117?style=flat-square&color=111827"/>
 <img src="https://img.shields.io/badge/-Intelligent%20Systems-0D1117?style=flat-square&color=111827"/>
 
+</div>
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
@@ -76,6 +88,8 @@ Status     Learning / Building
 <br/>
 
 ### `//` SPECIALIZATION PATH
+
+<div align="center">
 
 ```
 Artificial Intelligence
@@ -89,6 +103,8 @@ Large Language Models
  Automation / APIs
 ```
 
+</div>
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient.png" width="100%" height="3"/>
@@ -97,9 +113,17 @@ Large Language Models
 
 ### `//` CURRENT FOCUS
 
-`AI/ML`&nbsp; `LLMs`&nbsp; `Python`&nbsp; `Software Engineering`&nbsp; `Backend Development`&nbsp; `APIs & Automation`
+<div align="center">
 
-**Workflow:** `LEARN` → `UNDERSTAND` → `BUILD` → `BREAK` → `DEBUG` → `IMPROVE` → `REPEAT`
+`AI/ML` `LLMs` `Python` `Software Engineering` `Backend Development` `APIs & Automation`
+
+<br/>
+
+**Workflow**
+<br/>
+`LEARN` → `UNDERSTAND` → `BUILD` → `BREAK` → `DEBUG` → `IMPROVE` → `REPEAT`
+
+</div>
 
 <br/>
 
@@ -109,7 +133,13 @@ Large Language Models
 
 ### `//` EDUCATION
 
-🎓 **Bachelor of Technology — Artificial Intelligence & Machine Learning** · <sub>Currently Pursuing</sub>
+<div align="center">
+
+🎓 **Bachelor of Technology — Artificial Intelligence & Machine Learning**
+<br/>
+<sub>Currently Pursuing</sub>
+
+</div>
 
 <br/>
 
@@ -121,8 +151,8 @@ Large Language Models
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=3B82F6&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&cache_seconds=86400" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharm31&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F2937&hide_border=false&cache_seconds=86400" width="38.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=3B82F6&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharm31&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F2937&hide_border=false&cache_seconds=86400" width="40%"/>
 
 <br/>
 
