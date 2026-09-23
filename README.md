@@ -36,15 +36,11 @@ I'm a BTech student specializing in **Artificial Intelligence & Machine Learning
 
 I care about understanding technology at a deep level — not just using tools, but knowing how they work underneath. Currently strengthening my foundations in Python, AI/ML, and backend systems while continuously building and learning.
 
-<div align="center">
-
 ```
 Role      BTech AI/ML Student
 Primary   Python
 Status    Learning / Building
 ```
-
-</div>
 
 <br/>
 
@@ -96,8 +92,6 @@ Status    Learning / Building
 
 ### `//` SPECIALIZATION PATH
 
-<div align="center">
-
 ```
 Artificial Intelligence
         ↓
@@ -109,8 +103,6 @@ Large Language Models
         ↓
  Automation / APIs
 ```
-
-</div>
 
 <br/>
 
