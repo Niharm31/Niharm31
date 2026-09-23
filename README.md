@@ -36,14 +36,15 @@
 ### TABLE OF CONTENTS
 
 <sub>
-<a href="#-about">About</a> &nbsp;•&nbsp;
-<a href="#-developer-profile">Developer Profile</a> &nbsp;•&nbsp;
-<a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#-specialization-path">Specialization Path</a> &nbsp;•&nbsp;
-<a href="#-current-focus">Current Focus</a> &nbsp;•&nbsp;
-<a href="#-education">Education</a> &nbsp;•&nbsp;
-<a href="#-workflow">Workflow</a> &nbsp;•&nbsp;
-<a href="#-github-analytics">GitHub Analytics</a> &nbsp;•&nbsp;
+<a href="#-about">About</a> •
+<a href="#-developer-profile">Developer Profile</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-specialization-path">Specialization Path</a>
+<br/>
+<a href="#-current-focus">Current Focus</a> •
+<a href="#-education">Education</a> •
+<a href="#-workflow">Workflow</a> •
+<a href="#-github-analytics">GitHub Analytics</a> •
 <a href="#-contact">Contact</a>
 </sub>
 
@@ -82,17 +83,15 @@ I'm most drawn to the space where AI theory meets real software — turning mode
 <td width="34%" valign="top">
 
 ```
-┌──────────────────────────────┐
-│        QUICK FACTS           │
-├──────────────────────────────┤
-│  Education   BTech AI/ML     │
-│  Language    Python           │
-│  Interest    AI / ML          │
-│  Interest    LLMs             │
-│  Interest    Backend Dev      │
-│  Interest    Automation       │
-│  Status      In Progress      │
-└──────────────────────────────┘
+QUICK FACTS
+────────────────────────
+Education   BTech AI/ML
+Language    Python
+Interest    AI / ML
+Interest    LLMs
+Interest    Backend Dev
+Interest    Automation
+Status      In Progress
 ```
 
 </td>
@@ -111,7 +110,9 @@ I'm most drawn to the space where AI theory meets real software — turning mode
 developer_profile:
   name:        Nihar Mandal
   role:        BTech AI/ML Student
-  education:   Bachelor of Technology — Artificial Intelligence & Machine Learning
+  education:
+    degree:    Bachelor of Technology
+    major:     Artificial Intelligence & Machine Learning
   primary:     Python
   languages:
     - Python
@@ -233,29 +234,19 @@ developer_profile:
 <div align="center">
 
 ```
-                    ┌─────────────────────────────┐
-                    │   Artificial Intelligence    │
-                    └───────────────┬─────────────┘
-                                    │
-                                    ▼
-                    ┌─────────────────────────────┐
-                    │      Machine Learning        │
-                    └───────────────┬─────────────┘
-                                    │
-                                    ▼
-                    ┌─────────────────────────────┐
-                    │   Large Language Models      │
-                    └───────────────┬─────────────┘
-                                    │
-                                    ▼
-                    ┌─────────────────────────────┐
-                    │    Intelligent Systems       │
-                    └───────────────┬─────────────┘
-                                    │
-                                    ▼
-                    ┌─────────────────────────────┐
-                    │     Automation / APIs        │
-                    └─────────────────────────────┘
+   Artificial Intelligence
+            │
+            ▼
+      Machine Learning
+            │
+            ▼
+   Large Language Models
+            │
+            ▼
+     Intelligent Systems
+            │
+            ▼
+     Automation / APIs
 ```
 
 </div>
